@@ -1,7 +1,3 @@
-Here’s your improved README file with a **more structured and visually appealing format** while keeping the content clear and professional:  
-
----
-
 # 🚀 Data Warehousing and Mining (DWM) Practicals  
 
 🔹 **Student Name:** Sujal Junghare  
